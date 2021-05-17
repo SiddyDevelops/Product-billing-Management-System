@@ -7,6 +7,7 @@ The employee of a supermarket store have to login through his employee ID and pa
 
 Outline of the Program:
 
+```
 class product
 
 {
@@ -77,3 +78,4 @@ int main()
 {
 //Initially we have 10 products
 }
+```
