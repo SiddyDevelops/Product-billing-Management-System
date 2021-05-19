@@ -79,3 +79,25 @@ int main()
 //Initially we have 10 products
 }
 ```
+
+
+Functions and their use:
+
+•	void user_driven_login()  For login menu to take login Id and password as input.
+
+•	void user_drivemenu()  For store employee all the functions like adding, modifying displaying products.
+
+•	void product :: add_product()  Function to add products.
+
+•	void product :: mod_product()  Function to modify products.
+
+•	void product :: display_productdetails()  Function to display the list of all products.
+
+•	void generateBill() and void displayBill()  Functions to generate bill and display it user respectively.
+
+•	void batchIDArray(int i)  Function to store the batch Id of all the peoducts so that they can be added to the bill through their batch Id.
+
+•	Main function includes the details of 10 products which is then stored into an array. A searching and sorting algorithm is applied so that these products and their details (batchId, price, DOM, name) can be accessed anytime as per the requirement.
+
+
+
